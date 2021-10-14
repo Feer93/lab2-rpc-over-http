@@ -1,4 +1,4 @@
-#How to deploy the system?
+# How to deploy the system?
 
 In order to run the server we have to do the following thing:
 
@@ -18,7 +18,7 @@ the same thing we did to run the server:
 ./gradlew :client:build    
 ./gradlew :client:bootRun  
 ```
-#Solving the practice
+# Solving the practice
 
 To solve this practice we must finish the method "translation" on server side
 
